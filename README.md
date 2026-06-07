@@ -1,4 +1,4 @@
-# 🎵 GitMuse
+# 🎵 CommitsMusic
 
 Turn any git repository's history into **music**. One command, zero dependencies.
 
