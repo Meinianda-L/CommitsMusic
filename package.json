@@ -1,0 +1,24 @@
+{
+  "name": "commitsmusic",
+  "version": "1.0.0",
+  "description": "Turn git commit history into music with a beautiful TUI",
+  "main": "src/engine.js",
+  "bin": {
+    "commitsmusic": "./bin/commitsmusic.js"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "keywords": [
+    "git",
+    "music",
+    "tui",
+    "cli",
+    "visualization"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
